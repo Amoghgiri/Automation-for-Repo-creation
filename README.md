@@ -1,2 +1,5 @@
-# Automation-for-Repo-creation
-This actions aims in creating repository automatically
+# repo-action
+Creates a repository inside the organization
+trial 1
+try
+sada
